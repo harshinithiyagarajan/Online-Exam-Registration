@@ -1,0 +1,30 @@
+Email id : barunipriyats@gmail.com
+Name : baruni priya
+Mobile number : 7598158062
+Alternate mobile number : 7598158061
+Date of Birth : 17/October/1985
+Gender : Female
+Address : Balarengapuram
+State : Tamil Nadu
+City : Madurai
+Disability : No
+SC/ST category : No
+I am a : Student
+Share the details with potential employees : Yes
+How do you know about this course : Friends
+What is your motivation to do this course : For research purposes
+College / Organisation state : Tamil Nadu
+College / Organisation city : Madurai
+College / Organisation name : vcet
+Degree : B.Tech.
+Department : Agricultural Engineering
+Year : 1st year
+Share score with college : Yes
+Enrolled courses for examination are : Programming in JAVA , Python for Data Science , 
+First preferred state : Tamil Nadu
+First preferred city : Chengalpattu
+Second preferred state : Tamil Nadu
+Second preferred city : Chengalpattu
+Third preferred state : Tamil Nadu
+Third preferred city : Vellore
+
